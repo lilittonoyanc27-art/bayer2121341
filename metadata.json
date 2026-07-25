@@ -1,0 +1,6 @@
+{
+  "name": "Испанская Фонетика и Произношение",
+  "description": "Интерактивный тренажёр испанского произношения для русскоязычных: правила фонетики, ударения, озвучка native TTS, распознавание речи, скороговорки и обучающие игры.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
